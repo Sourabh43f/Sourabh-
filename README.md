@@ -1,2 +1,6 @@
 index.html
-Bluetooth Yes 
+<p>note it will <\p>
+<head>cmon boys</head>
+	<title>joi</title>
+</html>
+</body>
